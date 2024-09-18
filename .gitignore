@@ -1,0 +1,20 @@
+parser_env/
+.idea/
+
+# Кеш-компиляции
+__pycache__/
+*.py[cod]
+*.so
+
+# Виртуальные среды
+vw_env/
+.venv/
+
+
+data/
+models/
+myproject/
+results/
+catboost_info/
+
+*.csv
